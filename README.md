@@ -68,6 +68,7 @@ Vercel 대시보드의 **"Environment Variables"** 설정 섹션에 아래와 �
 │   └── main.tsx               # React 진입점
 ├── server.ts                  # 로컬 개발 및 Express 서버
 ├── vercel.json                # Vercel 배포 라우팅 설정
+├── .npmrc                     # Vercel 빌드 시 패키지 충돌 방지 설정
 └── package.json               # 프로젝트 설정 및 라이브러리 목록
 ```
 
