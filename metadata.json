@@ -1,0 +1,7 @@
+{
+  "name": "VocaQuiz - AI 영어 단어 퀴즈",
+  "description": "Gemini AI가 실시간으로 생성하는 나만의 맞춤형 영어 단어 3문제 객관식 퀴즈 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
